@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql:///vueblog2?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: root
+
+mybatis:
+  config-location: classpath:/mybatis-config.xml
+
+server:
+  port: 8081
+
+logging:
+  level:
+    org:
+      springframework:
+        security: info
