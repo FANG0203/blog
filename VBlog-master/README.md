@@ -67,7 +67,7 @@ git@github.com:FANG0203/blog.git
 3.根据自己本地情况修改数据库配置，数据库配置在SpringBoot项目的application.properties中  
 4.在IntelliJ IDEA中运行blogserver项目  
 
-**OK，至此，服务端就启动成功了，此时我们直接在地址栏输入```http://localhost:8081/index.html```即可访问我们的项目，
+OK，至此，服务端就启动成功了，此时我们直接在地址栏输入```http://localhost:8081/即可访问我们的项目，
 
 
 
