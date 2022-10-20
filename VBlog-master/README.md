@@ -2,27 +2,33 @@
 
 ## 登陆页面
 
+![img](https://raw.githubusercontent.com/FANG0203/blog/main/VBlog-master/doc/login.png)
 
+## 登录首页
+
+![img](https://raw.githubusercontent.com/FANG0203/blog/main/VBlog-master/doc/index.png)
 
 ## 文章列表
+
+![img](https://raw.githubusercontent.com/FANG0203/blog/main/VBlog-master/doc/article.png)
 
   
 
 ## 发表文章
 
-  
+  ![img](https://raw.githubusercontent.com/FANG0203/blog/main/VBlog-master/doc/post.png)
 
 ## 用户管理
 
-  
+  ![img](https://raw.githubusercontent.com/FANG0203/blog/main/VBlog-master/doc/usermana.png)
 
 ## 栏目管理
 
-  
+  ![img](https://raw.githubusercontent.com/FANG0203/blog/main/VBlog-master/doc/category.png)
 
 ## 数据统计
 
-  
+  ![img](https://raw.githubusercontent.com/FANG0203/blog/main/VBlog-master/doc/data.png)
 
 # 技术栈  
 
